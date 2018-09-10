@@ -163,6 +163,7 @@ Les applications sont disponibles aux adresses suivantes:
 
 - http://monip.com/geonature
 - http://monip.com/taxhub
+- http://monip.com/usershub
 
 Vous pouvez vous connecter avec l'utilisateur par défaut (admin/admin).
 
